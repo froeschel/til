@@ -1,4 +1,4 @@
 # TIL
 Today I Learned
 
-Keep notes of what I learn.
+Keep notes of small things I learn.
