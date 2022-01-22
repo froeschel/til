@@ -16,6 +16,7 @@ Keep notes of small things I learn.
 
 ### Visual Studio
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
+- [See new remotes](visual-studio/see-new-remotes.md)
 
 
 
