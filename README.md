@@ -11,6 +11,8 @@ Keep notes of small things I learn.
 
 ---
 
+### aspnet
+
 ### Azure Functions
 
 ### Azure Logic Apps
@@ -18,6 +20,7 @@ Keep notes of small things I learn.
 ### Visual Studio
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
 - [See new remotes](visual-studio/see-new-remotes.md)
+- [Could not find a part of the path \roslyn\csc.exe](visual-studio/csc-exe.md)
 
 
 
