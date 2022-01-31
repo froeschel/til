@@ -12,7 +12,7 @@ Keep notes of small things I learn.
 ---
 
 ### aspnet
-
+- [Learn aspnet](aspnet/learn-aspnet.md)
 ### Azure Functions
 
 ### Azure Logic Apps
