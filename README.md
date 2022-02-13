@@ -4,6 +4,7 @@ Today I Learned
 Keep notes of small things I learn.
 
 ## Index
+* [Architecture](#architecture)
 * [aspnet](#aspnet)
 * [Azure Functions](#azure-functions)
 * [Azure Logic Apps](#azure-logic-apps)
@@ -11,6 +12,8 @@ Keep notes of small things I learn.
 * [Visual Studio](#visual-studio)
 
 ---
+
+### Architecture
 
 ### aspnet
 - [Learn aspnet](aspnet/learn-aspnet.md)
