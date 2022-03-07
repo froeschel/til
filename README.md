@@ -26,7 +26,7 @@ Keep notes of small things I learn.
 ### Azure Monitoring
 - [Log Analytics Workspace](azure-monitoring/log-analytics-workspace.md)
 
-### Cosmos
+### Cosmos DB
 - [Use Point Reads](cosmos-db/point-reads.md)
 
 ### Visual Studio
