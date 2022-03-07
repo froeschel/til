@@ -9,6 +9,7 @@ Keep notes of small things I learn.
 * [Azure Functions](#azure-functions)
 * [Azure Logic Apps](#azure-logic-apps)
 * [Azure Monitoring](#azure-monitoring)
+* [Cosmos DB](#cosmos-db)
 * [Visual Studio](#visual-studio)
 
 ---
@@ -24,6 +25,9 @@ Keep notes of small things I learn.
 
 ### Azure Monitoring
 - [Log Analytics Workspace](azure-monitoring/log-analytics-workspace.md)
+
+### Cosmos
+- [Use Point Reads](cosmos-db/point-reads.md)
 
 ### Visual Studio
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
