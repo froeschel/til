@@ -18,7 +18,7 @@ Keep notes of small things I learn.
 
 ### aspnet
 - [Learn aspnet](aspnet/learn-aspnet.md)
-- [Remote debug on Azure App Service](aspnet/remote-debug)
+- [Remote debug on Azure App Service](aspnet/remote-debug.md)
 
 ### Azure Functions
 
