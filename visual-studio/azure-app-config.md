@@ -1,0 +1,1 @@
+To read from Azure App Configuration one needs to install specific NuGet packages and edit the project configurartion file. The information for the setup can be found [here.](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-dotnet-app#connect-to-an-app-configuration-store)
