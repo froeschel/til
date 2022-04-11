@@ -15,6 +15,7 @@ Keep notes of small things I learn.
 ---
 
 ### Architecture
+- [Draw diagrams](architecture/diagrams.md)
 
 ### aspnet
 - [Learn aspnet](aspnet/learn-aspnet.md)
