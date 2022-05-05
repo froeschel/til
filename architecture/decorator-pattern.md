@@ -1,0 +1,2 @@
+# Decorator Pattern
+The decorator pattern (a structural pattern) is used to extend functionality of an individual object, without modifying the original functionality. This can be useful when adding features to a system where there are many possible combinations of different features.

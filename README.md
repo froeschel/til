@@ -16,6 +16,7 @@ Keep notes of small things I learn.
 
 ### Architecture
 - [Draw diagrams](architecture/diagrams.md)
+- [Decorator pattern](architecture/decorator-pattern.md)
 
 ### aspnet
 - [Learn aspnet](aspnet/learn-aspnet.md)
