@@ -1,0 +1,2 @@
+# DMARC
+Spammers can spoof domain names for an organization. [DMARC](https://support.google.com/a/answer/2466580?hl=en#zippy=%2Cvideo-what-is-dmarc%2Cvideo-set-up-dmarc) will tell mail servers what to do with messages that not pass the authentication check.

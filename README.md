@@ -10,6 +10,7 @@ Keep notes of small things I learn.
 * [Azure Logic Apps](#azure-logic-apps)
 * [Azure Monitoring](#azure-monitoring)
 * [Cosmos DB](#cosmos-db)
+* [Security](#security)
 * [Visual Studio](#visual-studio)
 
 ---
@@ -31,6 +32,9 @@ Keep notes of small things I learn.
 
 ### Cosmos DB
 - [Use Point Reads](cosmos-db/point-reads.md)
+
+### Security
+- [DMARC](security/dmarc.md)
 
 ### Visual Studio
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
