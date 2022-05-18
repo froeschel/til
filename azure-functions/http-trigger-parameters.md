@@ -1,0 +1,2 @@
+# Azure Function HTTP Trigger: Using route parameters
+Route parameters define a functions route pattern such as api/articles/{id}. The parameters are available within the function. It is important that when developing the function, one needs to make sure that the route parameters are named exactly the same as the function binding parameters. If this is not the case the function will fail to bind the parameters and throw an error during startup.

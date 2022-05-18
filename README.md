@@ -24,6 +24,7 @@ Keep notes of small things I learn.
 - [Remote debug on Azure App Service](aspnet/remote-debug.md)
 
 ### Azure Functions
+- [HTTP Trigger](azure-functions/http-trigger-parameters.md)
 
 ### Azure Logic Apps
 
