@@ -36,7 +36,8 @@ Keep notes of small things I learn.
 
 ### Security
 - [DMARC](security/dmarc.md)
-- [ADFS](update-metadata.md)
+- [ADFS](security/update-metadata.md)
+- [Asymmetric Encription](security/asymmetric-encryption.md)
 
 ### Visual Studio
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
