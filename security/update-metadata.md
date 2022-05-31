@@ -1,0 +1,2 @@
+# Update Federation Metadata
+To update federation metadata 1)right cick on 'Relying Party Trust' --> 'Update from federation Metadata'. 2) Click update. 3) Double click on RPT and add identifieres to the list. 4) Click on 'Endpoints' and add a WS-Federation endpoint. 
