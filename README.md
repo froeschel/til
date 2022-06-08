@@ -33,6 +33,7 @@ Keep notes of small things I learn.
 
 ### Cosmos DB
 - [Use Point Reads](cosmos-db/point-reads.md)
+- [Get the Record Count](cosmos-db/record-count.md)
 
 ### Security
 - [DMARC](security/dmarc.md)
