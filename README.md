@@ -22,6 +22,7 @@ Keep notes of small things I learn.
 ### aspnet
 - [Learn aspnet](aspnet/learn-aspnet.md)
 - [Remote debug on Azure App Service](aspnet/remote-debug.md)
+- [Update settings with Azure CLI](aspnet/settings-cli.md)
 
 ### Azure Functions
 - [HTTP Trigger](azure-functions/http-trigger-parameters.md)
