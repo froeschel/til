@@ -1,0 +1,3 @@
+# running azure sql emulator in VS Code
+
+This [article](https://learn.microsoft.com/en-us/azure/azure-sql/database/local-dev-experience-sql-database-emulator?view=azuresql) gives a great introduction on how to run Azure SQL emulator from VS code. The emulator is running as docker image within docker desktop for windows. It is easy to spin up and take down, so one does not need to manage a complete sql server instance for local development.

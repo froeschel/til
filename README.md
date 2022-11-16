@@ -47,6 +47,4 @@ Keep notes of small things I learn.
 - [See new remotes](visual-studio/see-new-remotes.md)
 - [Could not find a part of the path \roslyn\csc.exe](visual-studio/csc-exe.md)
 - [Project setup for reading from Azure App Config in .NET projects](visual-studio/azure-app-config.md)
-
-
-
+- [Running Azure SQL emulator from VS Code](visual-studio/sql-emulator.md)
