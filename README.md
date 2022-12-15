@@ -27,7 +27,7 @@ Keep notes of small things I learn.
 
 ### Azure Functions
 - [HTTP Trigger](azure-functions/http-trigger-parameters.md)
-- [HttpClient in Functions](http-client.md)
+- [HttpClient in Functions](azure-functions/http-client.md)
 
 ### Azure Logic Apps
 
