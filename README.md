@@ -39,6 +39,9 @@ Keep notes of small things I learn.
 - [Get the Record Count](cosmos-db/record-count.md)
 - [Cheat Sheets](cosmos-db/cheat-sheets.md)
 
+## Entity Framework Core
+- [Tracking vs NoTracking](entity-framework/tracking.md)
+
 ### Security
 - [DMARC](security/dmarc.md)
 - [ADFS](security/update-metadata.md)
