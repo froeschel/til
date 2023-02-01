@@ -30,6 +30,9 @@ Keep notes of small things I learn.
 - [HTTP Trigger](azure-functions/http-trigger-parameters.md)
 - [HttpClient in Functions](azure-functions/http-client.md)
 
+### Azure Integration
+- [Event Grid Retry](azure-integration/event-grid-retry.md)
+
 ### Azure Logic Apps
 
 ### Azure Monitoring
