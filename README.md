@@ -42,6 +42,7 @@ Keep notes of small things I learn.
 - [Use Point Reads](cosmos-db/point-reads.md)
 - [Get the Record Count](cosmos-db/record-count.md)
 - [Cheat Sheets](cosmos-db/cheat-sheets.md)
+- [Workbooks](cosmos-db/workbooks.md)
 
 ## Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)

@@ -1,0 +1,2 @@
+# Workbooks
+On each Cosmos DB account there are some default Workbooks that give a good overview of the account activity. Here you can see information about requests, latency and storage space. This is valuable information when managing a Cosmos DB account. The workbook can be found in the 'Monitoring' section of each Cosmos DB account. 
