@@ -16,6 +16,7 @@ Keep notes of small things I learn.
 ---
 
 ### Architecture
+- [API Guidelines](architecture/api-guidelines.md)
 - [Draw diagrams](architecture/diagrams.md)
 - [Decorator pattern](architecture/decorator-pattern.md)
 
