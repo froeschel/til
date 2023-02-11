@@ -33,6 +33,7 @@ Keep notes of small things I learn.
 
 ### Azure Integration
 - [Event Grid Retry](azure-integration/event-grid-retry.md)
+- [Service Bus](azure-integration/service-bus.md)
 
 ### Azure Logic Apps
 
