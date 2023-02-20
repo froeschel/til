@@ -26,6 +26,7 @@ Keep notes of small things I learn.
 - [Update settings with Azure CLI](aspnet/settings-cli.md)
 - [Create a sql script from migration](aspnet/script-sql-migration.md)
 - [Add Identity to project](aspnet/identity.md)
+- [Using hot reload](aspnet/hot-reload.md)
 
 ### Azure Functions
 - [HTTP Trigger](azure-functions/http-trigger-parameters.md)
