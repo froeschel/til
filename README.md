@@ -32,6 +32,7 @@ Keep notes of small things I learn.
 ### Azure Functions
 - [HTTP Trigger](azure-functions/http-trigger-parameters.md)
 - [HttpClient in Functions](azure-functions/http-client.md)
+- [In-proc vs Isoloated](azure-functions/isolated.md)
 
 ### Azure Integration
 - [Event Grid Retry](azure-integration/event-grid-retry.md)

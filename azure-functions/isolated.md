@@ -1,0 +1,3 @@
+#  In-process vs isolated worker process
+
+C# in-process and C# isolated are two different ways of running Azure Functions. When using in-process, the code runs inside the same process as the Azure Function host. When using C# isolated the code runs in a seperate process. This way one can control the startup configuration and middleware management of the function. Isolated worker process also gives the opportunity to run a different .NET version than the function host. 
