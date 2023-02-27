@@ -52,7 +52,7 @@ Keep notes of small things I learn.
 ### DevOps
 - [Git revert](devops/git-revert.md)
 
-## Entity Framework Core
+### Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)
 
 ### Security
