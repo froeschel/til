@@ -49,6 +49,9 @@ Keep notes of small things I learn.
 - [Cheat Sheets](cosmos-db/cheat-sheets.md)
 - [Workbooks](cosmos-db/workbooks.md)
 
+### DevOps
+- [Git revert](devops/git-revert.md)
+
 ## Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)
 
