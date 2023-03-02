@@ -33,6 +33,7 @@ Keep notes of small things I learn.
 - [HTTP Trigger](azure-functions/http-trigger-parameters.md)
 - [HttpClient in Functions](azure-functions/http-client.md)
 - [In-proc vs Isoloated](azure-functions/isolated.md)
+- [Function throws HTTP Error 500.30 - ASP.NET Core app](azure-functions/503.md)
 
 ### Azure Integration
 - [Event Grid Retry](azure-integration/event-grid-retry.md)
