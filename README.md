@@ -20,6 +20,7 @@ Keep notes of small things I learn.
 - [Draw diagrams](architecture/diagrams.md)
 - [Decorator pattern](architecture/decorator-pattern.md)
 - [Inversion of Control](architecture/ioc.md)
+- [Static Fatory Method](architecture/static-factory-methods.md)
 
 ### aspnet
 - [Learn aspnet](aspnet/learn-aspnet.md)
