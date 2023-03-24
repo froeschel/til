@@ -53,6 +53,7 @@ Keep notes of small things I learn.
 - [Workbooks](cosmos-db/workbooks.md)
 
 ### Javascript
+- [Document.querySelectorAll](javascript/query-selector-all.md)
 
 ### DevOps
 - [Git revert](devops/git-revert.md)
