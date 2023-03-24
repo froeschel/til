@@ -10,6 +10,7 @@ Keep notes of small things I learn.
 * [Azure Logic Apps](#azure-logic-apps)
 * [Azure Monitoring](#azure-monitoring)
 * [Cosmos DB](#cosmos-db)
+* [Javascript](#javascript)
 * [Security](#security)
 * [Visual Studio](#visual-studio)
 
@@ -50,6 +51,8 @@ Keep notes of small things I learn.
 - [Get the Record Count](cosmos-db/record-count.md)
 - [Cheat Sheets](cosmos-db/cheat-sheets.md)
 - [Workbooks](cosmos-db/workbooks.md)
+
+### Javascript
 
 ### DevOps
 - [Git revert](devops/git-revert.md)
