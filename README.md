@@ -17,6 +17,7 @@ Keep notes of small things I learn
 ---
 
 ### Architecture
+- [Adapter pattern](architecure/adapter.md)
 - [API Guidelines](architecture/api-guidelines.md)
 - [Draw diagrams](architecture/diagrams.md)
 - [Decorator pattern](architecture/decorator-pattern.md)
