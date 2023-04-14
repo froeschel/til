@@ -69,6 +69,7 @@ Keep notes of small things I learn
 
 ### Visual Studio
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
+- [Navigate to code documentation](visual-studio/documentation.md)
 - [See new remotes](visual-studio/see-new-remotes.md)
 - [Could not find a part of the path \roslyn\csc.exe](visual-studio/csc-exe.md)
 - [Project setup for reading from Azure App Config in .NET projects](visual-studio/azure-app-config.md)
