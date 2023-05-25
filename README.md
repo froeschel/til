@@ -51,6 +51,7 @@ Keep notes of small things I learn
 - [Use Point Reads](cosmos-db/point-reads.md)
 - [Get the Record Count](cosmos-db/record-count.md)
 - [Cheat Sheets](cosmos-db/cheat-sheets.md)
+- [Role assignments](cosmos-db/role-assignment.md)
 - [Workbooks](cosmos-db/workbooks.md)
 
 ### Javascript
