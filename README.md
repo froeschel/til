@@ -25,12 +25,13 @@ Keep notes of small things I learn.
 - [Static Fatory Method](architecture/static-factory-methods.md)
 
 ### aspnet
+- [Add Identity to project](aspnet/identity.md)
+- [Create a sql script from migration](aspnet/script-sql-migration.md)
 - [Learn aspnet](aspnet/learn-aspnet.md)
 - [Remote debug on Azure App Service](aspnet/remote-debug.md)
 - [Update settings with Azure CLI](aspnet/settings-cli.md)
-- [Create a sql script from migration](aspnet/script-sql-migration.md)
-- [Add Identity to project](aspnet/identity.md)
 - [Using hot reload](aspnet/hot-reload.md)
+- [ViewComponents](aspnet/viewcomponents.md)
 
 ### Azure Functions
 - [HTTP Trigger](azure-functions/http-trigger-parameters.md)
