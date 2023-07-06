@@ -54,14 +54,17 @@ Keep notes of small things I learn
 - [Role assignments](cosmos-db/role-assignment.md)
 - [Workbooks](cosmos-db/workbooks.md)
 
-### Javascript
-- [Document.querySelectorAll](javascript/query-selector-all.md)
-
 ### DevOps
 - [Git revert](devops/git-revert.md)
 
 ### Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)
+
+### Javascript
+- [Document.querySelectorAll](javascript/query-selector-all.md)
+
+### Power BI
+- [Incremental Refresh](powerbi/incremental-refresh.md)
 
 ### Security
 - [DMARC](security/dmarc.md)
@@ -76,3 +79,6 @@ Keep notes of small things I learn
 - [Project setup for reading from Azure App Config in .NET projects](visual-studio/azure-app-config.md)
 - [Running Azure SQL emulator from VS Code](visual-studio/sql-emulator.md)
 - [Take snapshot of memory usage](visual-studio/memory-snapshot.md)
+
+
+ 
