@@ -6,3 +6,5 @@ When giving other resources access to the cosmos account, it can be done with ro
 az cosmosdb sql role assignment create --account-name comos-db-no-sql --resource-group comsos-db-rg --scope "/" --principal-id xxxxx --role-definition-id /subscriptions/xxxxx/resourceGroups/comsos-db-rg/providers/Microsoft.DocumentDB/databaseAccounts/comos-db-no-sql/sqlRoleDefinitions/00000000-0000-0000-0000-000000000002
 ``
 
+
+This is a sentence with various white space characters.
