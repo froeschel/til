@@ -1,5 +1,5 @@
 # TIL
-Today I Learned
+Today I Learned.
 
 Keep notes of small things I learn
 
