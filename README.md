@@ -56,6 +56,7 @@ Keep notes of small things I learn.
 - [Workbooks](cosmos-db/workbooks.md)
 
 ### DevOps
+- [Azure Pipelines](devops/azure-pipelines.md)
 - [Git revert](devops/git-revert.md)
 
 ### Entity Framework Core
