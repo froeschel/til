@@ -38,6 +38,7 @@ Keep notes of small things I learn.
 - [HttpClient in Functions](azure-functions/http-client.md)
 - [In-proc vs Isoloated](azure-functions/isolated.md)
 - [Function throws HTTP Error 500.30 - ASP.NET Core app](azure-functions/503.md)
+- [Local settings file](azure-functions/local-settings.md)
 
 ### Azure Integration
 - [Event Grid Retry](azure-integration/event-grid-retry.md)
