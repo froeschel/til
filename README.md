@@ -50,10 +50,11 @@ Keep notes of small things I learn.
 - [Log Analytics Workspace](azure-monitoring/log-analytics-workspace.md)
 
 ### Cosmos DB
-- [Use Point Reads](cosmos-db/point-reads.md)
-- [Get the Record Count](cosmos-db/record-count.md)
 - [Cheat Sheets](cosmos-db/cheat-sheets.md)
+- [Get the Record Count](cosmos-db/record-count.md)
+- [Partial Updates](cosmos-db/partial-update.md)
 - [Role assignments](cosmos-db/role-assignment.md)
+- [Use Point Reads](cosmos-db/point-reads.md)
 - [Workbooks](cosmos-db/workbooks.md)
 
 ### DevOps
