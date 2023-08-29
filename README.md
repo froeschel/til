@@ -22,7 +22,9 @@ Keep notes of small things I learn.
 - [Draw diagrams](architecture/diagrams.md)
 - [Decorator pattern](architecture/decorator-pattern.md)
 - [Inversion of Control](architecture/ioc.md)
+- [MVC Pattern](architecture/mvc.md)
 - [Static Fatory Method](architecture/static-factory-methods.md)
+
 
 ### aspnet
 - [Add Identity to project](aspnet/identity.md)

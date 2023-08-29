@@ -1,0 +1,4 @@
+# MVC pattern
+
+MVC seperates the application into three groups: Model, Views and Controllers. With this structure we achieve seperation of concern. We are using this pattern when working with ASP.NET Core MVC. 
+User requests are routed to a controller. The Controller then fetches a Model which contains data to build the View. When the Model is ready the View gets populated with data from the Model and is returned to the user. When working with this pattern it is important that the developer maintains the seperation of concern. Over time it can happen that dependencies and business logic is leaking through the different components. This should be avoided. 
