@@ -1,7 +1,7 @@
 # TIL
 Today I Learned.
 
-Keep notes of small things I learn.
+Keep notes of small things I learn. Note, I write quick notes here, so lots of grammar and spelling mistakes
 
 ## Index
 * [Architecture](#architecture)
@@ -35,6 +35,9 @@ Keep notes of small things I learn.
 - [Using hot reload](aspnet/hot-reload.md)
 - [ViewComponents](aspnet/viewcomponents.md)
 
+### Azure CDN
+- [What is Azure CDN?](cdn/introduction.md)
+
 ### Azure Functions
 - [HTTP Trigger](azure-functions/http-trigger-parameters.md)
 - [HttpClient in Functions](azure-functions/http-client.md)
@@ -46,7 +49,6 @@ Keep notes of small things I learn.
 - [Event Grid Retry](azure-integration/event-grid-retry.md)
 - [Service Bus](azure-integration/service-bus.md)
 
-### Azure Logic Apps
 
 ### Azure Monitoring
 - [Log Analytics Workspace](azure-monitoring/log-analytics-workspace.md)
@@ -73,9 +75,10 @@ Keep notes of small things I learn.
 - [Incremental Refresh](powerbi/incremental-refresh.md)
 
 ### Security
-- [DMARC](security/dmarc.md)
 - [ADFS](security/update-metadata.md)
 - [Asymmetric Encription](security/asymmetric-encryption.md)
+- [DMARC](security/dmarc.md)
+- [OAuth 2.0](security/oauth2.md)
 
 ### Visual Studio
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
