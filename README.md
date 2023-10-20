@@ -19,6 +19,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 ### Architecture
 - [Adapter pattern](architecture/adapter.md)
 - [API Guidelines](architecture/api-guidelines.md)
+- [Cloudevents](architecture/cloudevents.md)
 - [Draw diagrams](architecture/diagrams.md)
 - [Decorator pattern](architecture/decorator-pattern.md)
 - [Inversion of Control](architecture/ioc.md)
