@@ -6,11 +6,17 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 ## Index
 * [Architecture](#architecture)
 * [aspnet](#aspnet)
+* [Azure CDN](#azure-cdn)
 * [Azure Functions](#azure-functions)
+* [Azure Integration](#azure-integration)
 * [Azure Logic Apps](#azure-logic-apps)
 * [Azure Monitoring](#azure-monitoring)
 * [Cosmos DB](#cosmos-db)
+* [DevOps](#devops)
+* [Entity Framework](#entity-framework)
 * [Javascript](#javascript)
+* [Newsletters](#newsletters)
+* [Power BI](#power-bi)
 * [Security](#security)
 * [Visual Studio](#visual-studio)
 
@@ -68,9 +74,13 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)
+- [Global Query Filter](entity-framework/queryfilter.md)
 
 ### Javascript
 - [Document.querySelectorAll](javascript/query-selector-all.md)
+
+### Newsletters
+- [List of interesting Newsletters](newsletters/list.md)
 
 ### Power BI
 - [Incremental Refresh](powerbi/incremental-refresh.md)
