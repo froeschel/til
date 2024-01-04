@@ -78,7 +78,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Javascript
 - [Document.querySelectorAll](javascript/query-selector-all.md)
-- [let vs var](javasctipt/let-var.md)
+- [let vs var](javascript/let-var.md)
 
 ### Newsletters
 - [List of interesting Newsletters](newsletters/list.md)
