@@ -11,6 +11,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 * [Azure Integration](#azure-integration)
 * [Azure Logic Apps](#azure-logic-apps)
 * [Azure Monitoring](#azure-monitoring)
+* [Business](#buisness)
 * [Cosmos DB](#cosmos-db)
 * [DevOps](#devops)
 * [Entity Framework](#entity-framework)
@@ -59,6 +60,8 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Azure Monitoring
 - [Log Analytics Workspace](azure-monitoring/log-analytics-workspace.md)
+
+### Buisness
 
 ### Cosmos DB
 - [Cheat Sheets](cosmos-db/cheat-sheets.md)
