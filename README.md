@@ -53,6 +53,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [In-proc vs Isoloated](azure-functions/isolated.md)
 - [Function throws HTTP Error 500.30 - ASP.NET Core app](azure-functions/503.md)
 - [Local settings file](azure-functions/local-settings.md)
+- [Remote debugging](azure-functions/remote-debug.md)
 
 ### Azure Integration
 - [Event Grid Retry](azure-integration/event-grid-retry.md)
