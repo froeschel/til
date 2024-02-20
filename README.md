@@ -57,6 +57,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Azure Integration
 - [Event Grid Retry](azure-integration/event-grid-retry.md)
+- [Event Grid Test Local](azure/event-grid-local.md)
 - [Service Bus](azure-integration/service-bus.md)
 
 
@@ -98,6 +99,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [OAuth 2.0](security/oauth2.md)
 
 ### Visual Studio
+- [Set multiple startup projects](visual-studio/multiple-startup-projects.md)
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
 - [Navigate to code documentation](visual-studio/documentation.md)
 - [See new remotes](visual-studio/see-new-remotes.md)
