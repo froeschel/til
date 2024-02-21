@@ -99,13 +99,13 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [OAuth 2.0](security/oauth2.md)
 
 ### Visual Studio
-- [Set multiple startup projects](visual-studio/multiple-startup-projects.md)
+- [Could not find a part of the path \roslyn\csc.exe](visual-studio/csc-exe.md)
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
 - [Navigate to code documentation](visual-studio/documentation.md)
-- [See new remotes](visual-studio/see-new-remotes.md)
-- [Could not find a part of the path \roslyn\csc.exe](visual-studio/csc-exe.md)
 - [Project setup for reading from Azure App Config in .NET projects](visual-studio/azure-app-config.md)
 - [Running Azure SQL emulator from VS Code](visual-studio/sql-emulator.md)
+- [See new remotes](visual-studio/see-new-remotes.md)
+- [Set multiple startup projects](visual-studio/multiple-startup-projects.md)
 - [Take snapshot of memory usage](visual-studio/memory-snapshot.md)
 
 
