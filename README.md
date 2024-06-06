@@ -94,12 +94,13 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Security
 - [ADFS](security/update-metadata.md)
-- [Asymmetric Encription](security/asymmetric-encryption.md)
+- [Asymmetric Encryption](security/asymmetric-encryption.md)
 - [DMARC](security/dmarc.md)
 - [OAuth 2.0](security/oauth2.md)
 
 ### Visual Studio
 - [Could not find a part of the path \roslyn\csc.exe](visual-studio/csc-exe.md)
+- [Developer certificate is expired](visual-studio/developer-certificate.md)
 - [MVC5 Views Visual Studio 2022](visual-studio/razor-views-mvc5.md)
 - [Navigate to code documentation](visual-studio/documentation.md)
 - [Project setup for reading from Azure App Config in .NET projects](visual-studio/azure-app-config.md)
