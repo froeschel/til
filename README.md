@@ -57,7 +57,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Azure Integration
 - [Event Grid Retry](azure-integration/event-grid-retry.md)
-- [Event Grid Test Local](azure/event-grid-local.md)
+- [Event Grid Test Local](azure-integration/event-grid-local.md)
 - [Service Bus](azure-integration/service-bus.md)
 
 
