@@ -35,14 +35,15 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 
 ### aspnet
+- [Add Health Check](aspnet/healtchcheck.md)
 - [Add Identity to project](aspnet/identity.md)
 - [Create a sql script from migration](aspnet/script-sql-migration.md)
 - [Learn aspnet](aspnet/learn-aspnet.md)
 - [Remote debug on Azure App Service](aspnet/remote-debug.md)
+- [Smart Components](aspnet/smart-components.md)
 - [Update settings with Azure CLI](aspnet/settings-cli.md)
 - [Using hot reload](aspnet/hot-reload.md)
 - [ViewComponents](aspnet/viewcomponents.md)
-- [Add Health Check](aspnet/healtchcheck.md)
 
 ### Azure CDN
 - [What is Azure CDN?](cdn/introduction.md)
