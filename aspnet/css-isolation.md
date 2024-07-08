@@ -1,0 +1,3 @@
+### CSS isolation
+
+To avoid large global css files and styling conflicts CSS isolation has been introduced in .NET 6. To add scoped css for a View add a file called [view-name].cshtml.css to your project. This file will contain the styling for the specific view. The css for each View will be bundled in a static asset file with the naming [project-name].styles.css. For more information read this [link](https://learn.microsoft.com/da-dk/aspnet/core/razor-pages/?view=aspnetcore-8.0&tabs=visual-studio#css-isolation).

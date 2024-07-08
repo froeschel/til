@@ -38,6 +38,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Add Health Check](aspnet/healtchcheck.md)
 - [Add Identity to project](aspnet/identity.md)
 - [Create a sql script from migration](aspnet/script-sql-migration.md)
+- [CSS Isolation](/aspnet/css-isolation.md)
 - [Learn aspnet](aspnet/learn-aspnet.md)
 - [Remote debug on Azure App Service](aspnet/remote-debug.md)
 - [Smart Components](aspnet/smart-components.md)
