@@ -83,6 +83,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 ### Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)
 - [Global Query Filter](entity-framework/queryfilter.md)
+- [Enum Conversion](entity-framework/enum-conversion.md)
 
 ### Javascript
 - [Document.querySelectorAll](javascript/query-selector-all.md)
