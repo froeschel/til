@@ -15,6 +15,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 * [Cosmos DB](#cosmos-db)
 * [DevOps](#devops)
 * [Entity Framework](#entity-framework)
+* [Fundamentals](#fundamentals)
 * [Javascript](#javascript)
 * [Newsletters](#newsletters)
 * [Power BI](#power-bi)
@@ -80,6 +81,8 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Azure Pipelines](devops/azure-pipelines.md)
 - [Git revert](devops/git-revert.md)
 
+### Fundamentals
+- [Big O notation](fundamentals/big-o.md)
 ### Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)
 - [Global Query Filter](entity-framework/queryfilter.md)
