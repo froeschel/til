@@ -101,6 +101,8 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 ### Power BI
 - [Incremental Refresh](powerbi/incremental-refresh.md)
 
+### References
+
 ### Security
 - [ADFS](security/update-metadata.md)
 - [Asymmetric Encryption](security/asymmetric-encryption.md)
