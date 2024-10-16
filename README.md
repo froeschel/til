@@ -62,6 +62,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Event Grid Retry](azure-integration/event-grid-retry.md)
 - [Event Grid Test Local](azure-integration/event-grid-local.md)
 - [Service Bus](azure-integration/service-bus.md)
+- [Update Function to Isolated-Model](azure-integration/update-to-isolated.md)
 
 
 ### Azure Monitoring
