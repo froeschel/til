@@ -19,6 +19,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 * [Javascript](#javascript)
 * [Newsletters](#newsletters)
 * [Power BI](#power-bi)
+* [References](#references)
 * [Security](#security)
 * [Visual Studio](#visual-studio)
 
@@ -102,6 +103,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Incremental Refresh](powerbi/incremental-refresh.md)
 
 ### References
+- [Messy Inbox Problem](references/messy-inbox-problem)
 
 ### Security
 - [ADFS](security/update-metadata.md)
