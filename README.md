@@ -73,6 +73,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Cosmos DB
 - [Cheat Sheets](cosmos-db/cheat-sheets.md)
+- [Consistency levels](cosmos-db/consistency-levels.md)
 - [Get the Record Count](cosmos-db/record-count.md)
 - [Partial Updates](cosmos-db/partial-update.md)
 - [Role assignments](cosmos-db/role-assignment.md)
