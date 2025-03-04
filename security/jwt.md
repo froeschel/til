@@ -1,0 +1,3 @@
+# JWT
+
+JWT (JSON Web Token) is a standard which defines a way of securely transmitting information between systems. JWTs are small in size so it is possible to send the information in a header. The tokens can be used for different things. They can be used for authentication and authorization as well as secure information transmission. The advantage is that JWT can be signed so that it is possible to verify the integrity of the information that is being transmitted.  

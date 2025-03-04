@@ -17,6 +17,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 * [Entity Framework](#entity-framework)
 * [Fundamentals](#fundamentals)
 * [Javascript](#javascript)
+*[Machine Learning](#machine-learning)
 * [Newsletters](#newsletters)
 * [Power BI](#power-bi)
 * [References](#references)
@@ -110,6 +111,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [ADFS](security/update-metadata.md)
 - [Asymmetric Encryption](security/asymmetric-encryption.md)
 - [DMARC](security/dmarc.md)
+- [JWT](security/jwt.md)
 - [OAuth 2.0](security/oauth2.md)
 
 ### Visual Studio
