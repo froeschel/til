@@ -17,7 +17,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 * [Entity Framework](#entity-framework)
 * [Fundamentals](#fundamentals)
 * [Javascript](#javascript)
-*[Machine Learning](#machine-learning)
+* [Machine Learning](#machine-learning)
 * [Newsletters](#newsletters)
 * [Power BI](#power-bi)
 * [References](#references)
@@ -97,6 +97,10 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [let vs var](javascript/let-var.md)
 
 ### Literature
+
+### Machine Learning
+- [Supervised learning](machine-learning/supervised-learning.md)
+- [Unsupervised learning](machine-learning/unsupervised-learning.md)
 
 ### Newsletters
 - [List of interesting Newsletters](newsletters/list.md)
