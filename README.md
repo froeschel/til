@@ -117,6 +117,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [DMARC](security/dmarc.md)
 - [JWT](security/jwt.md)
 - [OAuth 2.0](security/oauth2.md)
+- [OpenID Connect](security(openidconnect.md))
 
 ### Visual Studio
 - [Could not find a part of the path \roslyn\csc.exe](visual-studio/csc-exe.md)

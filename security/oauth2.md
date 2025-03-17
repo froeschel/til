@@ -1,6 +1,6 @@
 # OAuth 2.0 
 
-OAuth 2.0 is an <b>authorization</b> framework which enables third party applications to obtain limited access to an HTTP service. OAuth 2.0 uses access tokens, which represents authjorization data for the requested resource. Often a token in the JWT format is used. 
+OAuth 2.0 is an <b>authorization</b> framework which enables third party applications to obtain limited access to an HTTP service. OAuth 2.0 uses access tokens, which represents authhorization data for the requested resource. Often a token in the JWT format is used. 
 In OAuth 2.0 following roles are specified: [list from https://auth0.com/intro-to-iam/what-is-oauth-2]
 
 * Resource Owner: The user or system that owns the protected resources and can grant access to them.
