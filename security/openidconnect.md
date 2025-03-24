@@ -20,3 +20,5 @@ Scopes define what the user can do with their access. OIDC provides standard sco
 
 
 [source]("https://www.microsoft.com/en-us/security/business/security-101/what-is-openid-connect-oidc")
+
+A [link](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/configure-oidc-web-authentication?view=aspnetcore-9.0) to an example of how to configure OpenID Connect in ASP.NET Core.

@@ -69,6 +69,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Azure Monitoring
 - [Log Analytics Workspace](azure-monitoring/log-analytics-workspace.md)
+- [Logging](azure-functions/logging.md)
 
 ### Buisness
 
