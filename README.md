@@ -111,6 +111,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### References
 - [Messy Inbox Problem](references/messy-inbox-problem)
+- [Technology Radar](references/technology-radar.md)
 
 ### Security
 - [ADFS](security/update-metadata.md)
