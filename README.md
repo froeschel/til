@@ -33,6 +33,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Draw diagrams](architecture/diagrams.md)
 - [Decorator pattern](architecture/decorator-pattern.md)
 - [Inversion of Control](architecture/ioc.md)
+- [Knowledge Map](architecture/knowledge-map.md)
 - [MVC Pattern](architecture/mvc.md)
 - [Static Fatory Method](architecture/static-factory-methods.md)
 
@@ -88,6 +89,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Fundamentals
 - [Big O notation](fundamentals/big-o.md)
+
 ### Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)
 - [Global Query Filter](entity-framework/queryfilter.md)
