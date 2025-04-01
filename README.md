@@ -101,6 +101,9 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Literature
 
+### LLM
+- [Run small models locally](llm/small-models.md)]
+
 ### Machine Learning
 - [Supervised learning](machine-learning/supervised-learning.md)
 - [Unsupervised learning](machine-learning/unsupervised-learning.md)
