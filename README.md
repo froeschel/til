@@ -17,6 +17,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 * [Entity Framework](#entity-framework)
 * [Fundamentals](#fundamentals)
 * [Javascript](#javascript)
+* [LLM](#llm)
 * [Machine Learning](#machine-learning)
 * [Newsletters](#newsletters)
 * [Power BI](#power-bi)
@@ -102,7 +103,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 ### Literature
 
 ### LLM
-- [Run small models locally](llm/small-models.md)]
+- [Run small models locally](llm/small-models.md)
 
 ### Machine Learning
 - [Supervised learning](machine-learning/supervised-learning.md)
