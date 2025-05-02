@@ -1,3 +1,3 @@
 # GitHub Executive Inisghts
 
-[Link]("https://github.com/solutions/executive-insights")
+[Link](https://github.com/solutions/executive-insights)
