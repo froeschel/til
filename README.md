@@ -116,6 +116,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Incremental Refresh](powerbi/incremental-refresh.md)
 
 ### References
+- [GitHub Executive Insights](references/github-executive.md)
 - [Messy Inbox Problem](references/messy-inbox-problem)
 - [Technology Radar](references/technology-radar.md)
 
