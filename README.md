@@ -105,6 +105,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 ### LLM
 - [Run small models locally](llm/small-models.md)
 - [RAG architecture](llm/rag.md)
+- [MCP](llm/mcp.md)
 
 ### Machine Learning
 - [Supervised learning](machine-learning/supervised-learning.md)
