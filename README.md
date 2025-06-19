@@ -96,6 +96,9 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Global Query Filter](entity-framework/queryfilter.md)
 - [Enum Conversion](entity-framework/enum-conversion.md)
 
+### Infrastructure
+- [Apache Kafka]()
+
 ### Javascript
 - [Document.querySelectorAll](javascript/query-selector-all.md)
 - [let vs var](javascript/let-var.md)
@@ -106,6 +109,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Run small models locally](llm/small-models.md)
 - [RAG architecture](llm/rag.md)
 - [MCP](llm/mcp.md)
+- [RGC template](llm/rgc.md)
 
 ### Machine Learning
 - [Supervised learning](machine-learning/supervised-learning.md)
