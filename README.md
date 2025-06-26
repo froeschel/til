@@ -106,10 +106,11 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 ### Literature
 
 ### LLM
-- [Run small models locally](llm/small-models.md)
-- [RAG architecture](llm/rag.md)
+- [Collection of papers @ Hugging Face](llm/papers.md)
 - [MCP](llm/mcp.md)
+- [RAG architecture](llm/rag.md)
 - [RGC template](llm/rgc.md)
+- [Run small models locally](llm/small-models.md)
 
 ### Machine Learning
 - [Supervised learning](machine-learning/supervised-learning.md)
