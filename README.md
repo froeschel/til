@@ -97,7 +97,8 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Enum Conversion](entity-framework/enum-conversion.md)
 
 ### Infrastructure
-- [Apache Kafka]()
+- [Apache Kafka](infrastructure/kafka.md)
+- [Data Engineering](infrastructure/data-engineering.md)
 
 ### Javascript
 - [Document.querySelectorAll](javascript/query-selector-all.md)
