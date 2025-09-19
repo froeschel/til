@@ -112,7 +112,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [RAG architecture](llm/rag.md)
 - [RGC template](llm/rgc.md)
 - [Run small models locally](llm/small-models.md)
-
+- [Vectorization](llm/vectorization.md)
 ### Machine Learning
 - [Supervised learning](machine-learning/supervised-learning.md)
 - [Unsupervised learning](machine-learning/unsupervised-learning.md)
