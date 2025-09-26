@@ -90,6 +90,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### Fundamentals
 - [Big O notation](fundamentals/big-o.md)
+- [CAP](fundamentals/cap.md)
 
 ### Entity Framework Core
 - [Tracking vs NoTracking](entity-framework/tracking.md)
