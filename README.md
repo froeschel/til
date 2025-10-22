@@ -19,6 +19,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 * [Javascript](#javascript)
 * [LLM](#llm)
 * [Machine Learning](#machine-learning)
+* [Mathmatics](#mathmatics)
 * [Newsletters](#newsletters)
 * [Power BI](#power-bi)
 * [References](#references)
@@ -86,6 +87,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### DevOps
 - [Azure Pipelines](devops/azure-pipelines.md)
+- [DORA](devops/dora.md)
 - [Git revert](devops/git-revert.md)
 
 ### Fundamentals
