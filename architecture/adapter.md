@@ -2,7 +2,7 @@
 
 The Adapter pattern acts as a connector between two incompatible interfaces. This way it becomes possible to convert an interface to another interface that the client expects. A real life example of this could be when we a building a weather app and we need to get tempatures from different provideres. They all have the capability to return temperatures, but the methods and maybe also the format of the return value will be different. So one provider uses a method called ``GetTemperatureForLocation`` which returns a double and another provider uses a method called ``GetTemperatureForArea`` which returns a string. Code could look like this:
 
-``
+
  
      public interface IWeatherService
         { 
@@ -66,4 +66,3 @@ The Adapter pattern acts as a connector between two incompatible interfaces. Thi
             }
         }
 
-``
