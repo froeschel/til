@@ -87,8 +87,9 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### DevOps
 - [Azure Pipelines](devops/azure-pipelines.md)
-- [DORA](devops/dora.md)
+- [Dora](devops/dora.md)
 - [Git revert](devops/git-revert.md)
+- [Identify issues](devops/identify-issues.md)
 
 ### Fundamentals
 - [Big O notation](fundamentals/big-o.md)
@@ -111,11 +112,14 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 
 ### LLM
 - [Collection of papers @ Hugging Face](llm/papers.md)
+- [HNSW](llm/hnsw.md)
 - [MCP](llm/mcp.md)
 - [RAG architecture](llm/rag.md)
 - [RGC template](llm/rgc.md)
 - [Run small models locally](llm/small-models.md)
 - [Vectorization](llm/vectorization.md)
+
+
 ### Machine Learning
 - [Supervised learning](machine-learning/supervised-learning.md)
 - [Unsupervised learning](machine-learning/unsupervised-learning.md)
