@@ -1,68 +1,89 @@
 # Adapter Pattern
 
-The Adapter pattern acts as a connector between two incompatible interfaces. This way it becomes possible to convert an interface to another interface that the client expects. A real life example of this could be when we a building a weather app and we need to get tempatures from different provideres. They all have the capability to return temperatures, but the methods and maybe also the format of the return value will be different. So one provider uses a method called ``GetTemperatureForLocation`` which returns a double and another provider uses a method called ``GetTemperatureForArea`` which returns a string. Code could look like this:
+## Purpose
+The Adapter pattern converts the interface of a class into another interface that clients expect. It acts as a bridge between incompatible interfaces, allowing classes with incompatible contracts to work together without modifying their source code.
 
+## When to Use
+Use the Adapter pattern when:
+- You need to integrate a third-party library with an incompatible interface
+- You want to use legacy code alongside new code with different interfaces
+- You need to provide a consistent interface to multiple implementations with different contracts
+- You're wrapping external services (APIs, databases, etc.) with different signatures
 
- 
-     public interface IWeatherService
-        { 
-            double GetTemperatureForCity(string city);
-        }
+## Structure
+The pattern typically involves:
+1. **Target Interface**: The interface the client expects
+2. **Adaptee**: The existing interface that needs to be adapted (incompatible)
+3. **Adapter**: Implements the target interface and translates calls to the adaptee
 
-        public interface ISourceWeatherServiceOne 
-        {
-            double GetTemperatureForLocation(string city);
-        }
+## Real-World Example: Weather Service Adapters
 
-        public interface ISourceWeatherServiceTwo
-        {
-            string GetTemperatureForArea(string city);
-        }
+Imagine you're building a weather application that needs to support multiple weather data providers. Each provider has a different interface:
 
-        public class SourceWeatherServiceOne : ISourceWeatherServiceOne
-        {
-            public double GetTemperatureForLocation(string city)
-            {
-                return 1.5;
-            }
-        }
+```csharp
+// Target Interface - what our application expects
+public interface IWeatherService
+{
+    double GetTemperatureForCity(string city);
+}
 
-        public class SourceWeatherServiceTwo : ISourceWeatherServiceTwo
-        {
-            public string GetTemperatureForArea(string city)
-            {
-                return "10";
-            }
-        }
+// Adaptee interfaces - incompatible external APIs
+public interface ISourceWeatherServiceOne 
+{
+    double GetTemperatureForLocation(string city);
+}
 
-        public class WeatherServicOneAdapter : IWeatherService
-        {
-            private readonly ISourceWeatherServiceOne _sourceWeatherServiceOne;
+public interface ISourceWeatherServiceTwo
+{
+    string GetTemperatureForArea(string city);
+}
 
-            public WeatherServicOneAdapter(ISourceWeatherServiceOne sourceWeatherServiceOne)
-            {
-                _sourceWeatherServiceOne = sourceWeatherServiceOne;
-            }
+// Concrete implementations of external services
+public class SourceWeatherServiceOne : ISourceWeatherServiceOne
+{
+    public double GetTemperatureForLocation(string city)
+    {
+        return 1.5;
+    }
+}
 
-            public double GetTemperatureForCity(string city)
-            {
-                return _sourceWeatherServiceOne.GetTemperatureForLocation(city);
-            }
-        }
+public class SourceWeatherServiceTwo : ISourceWeatherServiceTwo
+{
+    public string GetTemperatureForArea(string city)
+    {
+        return "10";
+    }
+}
 
+// Adapters - convert external interfaces to our target interface
+public class WeatherServiceOneAdapter : IWeatherService
+{
+    private readonly ISourceWeatherServiceOne _sourceWeatherServiceOne;
 
-        public class WeatherServicTwoAdapter : IWeatherService
-        {
-            private readonly ISourceWeatherServiceTwo _sourceWeatherServiceTwo;
+    public WeatherServiceOneAdapter(ISourceWeatherServiceOne sourceWeatherServiceOne)
+    {
+        _sourceWeatherServiceOne = sourceWeatherServiceOne;
+    }
 
-            public WeatherServicTwoAdapter(ISourceWeatherServiceTwo sourceWeatherServiceTwo)
-            {
-                _sourceWeatherServiceTwo = sourceWeatherServiceTwo;
-            }
+    public double GetTemperatureForCity(string city)
+    {
+        // Simple delegation - method names align
+        return _sourceWeatherServiceOne.GetTemperatureForLocation(city);
+    }
+}
 
-            public double GetTemperatureForCity(string city)
-            {
-                return double.Parse(_sourceWeatherServiceTwo.GetTemperatureForArea(city));
-            }
-        }
+public class WeatherServiceTwoAdapter : IWeatherService
+{
+    private readonly ISourceWeatherServiceTwo _sourceWeatherServiceTwo;
 
+    public WeatherServiceTwoAdapter(ISourceWeatherServiceTwo sourceWeatherServiceTwo)
+    {
+        _sourceWeatherServiceTwo = sourceWeatherServiceTwo;
+    }
+
+    public double GetTemperatureForCity(string city)
+    {
+        // Translate interface: convert string return to double
+        return double.Parse(_sourceWeatherServiceTwo.GetTemperatureForArea(city));
+    }
+}
