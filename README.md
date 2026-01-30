@@ -108,6 +108,8 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Document.querySelectorAll](javascript/query-selector-all.md)
 - [let vs var](javascript/let-var.md)
 
+### Linux
+
 ### Literature
 
 ### LLM
