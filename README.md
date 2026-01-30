@@ -17,6 +17,8 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 * [Entity Framework](#entity-framework)
 * [Fundamentals](#fundamentals)
 * [Javascript](#javascript)
+* [Linux](#linux)
+* [Literature](#literature)
 * [LLM](#llm)
 * [Machine Learning](#machine-learning)
 * [Mathmatics](#mathmatics)
