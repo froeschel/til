@@ -39,6 +39,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Inversion of Control](architecture/ioc.md)
 - [Knowledge Map](architecture/knowledge-map.md)
 - [MVC Pattern](architecture/mvc.md)
+- [Spec-Driven Development](architecture/spec-driven.md)
 - [Static Fatory Method](architecture/static-factory-methods.md)
 
 
