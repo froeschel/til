@@ -1,2 +1,2 @@
-# API Guidelines
-Microsofts API Guidelines can be found [here](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md). 
+# API Guidelines (Best Prectice)
+A suggestion of best practices can be found [here](https://swagger.io/resources/articles/best-practices-in-api-design/). 
