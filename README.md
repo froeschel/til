@@ -112,6 +112,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [let vs var](javascript/let-var.md)
 
 ### Linux
+- [Distributions](linux/distributions.md)
 
 ### Literature
 
