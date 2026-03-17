@@ -120,6 +120,7 @@ Keep notes of small things I learn. Note, I write quick notes here, so lots of g
 - [Collection of papers @ Hugging Face](llm/papers.md)
 - [HNSW](llm/hnsw.md)
 - [MCP](llm/mcp.md)
+- [Prompt caching](llm/prompt-caching.md)
 - [RAG architecture](llm/rag.md)
 - [RGC template](llm/rgc.md)
 - [Run small models locally](llm/small-models.md)
